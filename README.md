@@ -240,14 +240,6 @@ Built at **order-item level** and includes:
 
 ---
 
-## 🎨 Dashboard Design
-
-- **Theme:** Amazon-inspired dark navy background
-- **Colors:** Orange, Blue, Green, and Red highlights
-- **Features:** Custom page navigation icons, consistent layout, and clear visual hierarchy
-
----
-
 ## 💡 Key Business Insights
 
 - Revenue exceeded target by **11%** — strong overall performance
