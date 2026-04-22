@@ -30,6 +30,12 @@ The goal was to analyze an Amazon-style e-commerce dataset and build a dashboard
 
 ---
 
+## 🛤️ Project Roadmap
+
+![Project Roadmap](Diagram.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
