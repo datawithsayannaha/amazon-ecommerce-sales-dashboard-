@@ -291,7 +291,7 @@ Built at **order-item level** and includes:
 
 ---
 
-## 👤 Author
+## 👨‍💻 About Me
 
 **Sayan Naha**
 
