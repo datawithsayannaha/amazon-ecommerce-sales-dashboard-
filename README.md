@@ -246,6 +246,24 @@ Built at **order-item level** and includes:
 
 ---
 
+## 📸 Dashboard Preview
+
+### 🔹 Overview Dashboard
+![Overview](images/overview.png)
+
+### 🔹 Customer Insights
+![Customer](images/customer.png)
+
+### 🔹 Product Performance
+![Product](images/product.png)
+
+### 🔹 Cohort Retention Analysis
+![Cohort](images/cohort.png)
+
+### 🔹 Track & Delivery Performance
+![Track](images/track.png)
+---
+
 ## 💡 Key Business Insights
 
 - Revenue exceeded target by **11%** — strong overall performance
