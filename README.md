@@ -4,6 +4,7 @@ An end-to-end Business Intelligence project built with SQL → Python → Power 
 
 
 📌 Project Overview
+
 This project is a complete data analytics pipeline — starting from raw e-commerce data, all the way to an interactive 5-page Power BI dashboard.
 The goal was to analyze an Amazon-style e-commerce dataset and build a dashboard that helps business teams understand:
 
@@ -15,12 +16,15 @@ Funnel conversion and delivery efficiency
 
 
 🗂️ Project Workflow
+
 Raw Dataset → SQL (Clean & Model) → Python (Analyze & Engineer) → Power BI (Visualize)
 
 🛠️ Tools & Technologies
+
 ToolPurposeSQL ServerData cleaning, joins, fact & dimension table creationPython (Pandas)Cohort analysis, funnel analysis, rolling metrics, feature engineeringPower BIData modeling, DAX measures, interactive dashboard
 
 📁 Dataset Tables
+
 The raw dataset included:
 
 customers — customer details
@@ -164,4 +168,4 @@ Sayan Naha
   <a href="https://linkedin.com/in/YOUR_REAL_LINKEDIN" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="32"/>
   </a>
-💼 LinkedIn - https://www.linkedin.com/in/sayan-naha/
+ https://www.linkedin.com/in/sayan-naha/
