@@ -258,7 +258,7 @@ Built at **order-item level** and includes:
 ![Product](images/product.png)
 
 ### 🔹 Cohort Retention Analysis
-![Cohort](images/cohort.png)
+![Cohort](images/Cohort.png)
 
 ### 🔹 Track & Delivery Performance
 ![Track](images/track.png)
