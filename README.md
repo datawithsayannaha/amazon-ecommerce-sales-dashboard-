@@ -2,6 +2,12 @@
 
 An end-to-end **Business Intelligence project** built with **SQL → Python → Power BI**
 
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/Database-SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver)
+![Python](https://img.shields.io/badge/Language-Python-green?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+
 ---
 
 ## 📌 Project Overview
