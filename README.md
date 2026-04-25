@@ -161,12 +161,12 @@ Built at **order-item level** and includes:
 
 ### Key Numbers
 
-- **Revenue:** ₹11.92M (**Goal:** ₹10.73M → **+11.11%** ✅)
-- **Profit:** ₹3.58M (**Goal:** ₹3.04M → **+17.65%** ✅)
-- **Total Orders:** 20,000
-- **Total Customers:** 8,635
-- **Profit Margin:** 30% (**Goal:** 35% ⚠️)
-- **Avg Order Value:** ₹595.93
+- **Revenue**
+- **Profit** ₹
+- **Total Orders** 
+- **Total Customers** 
+- **Profit Margin** 
+- **Avg Order Value** 
 
 ### Visuals
 
@@ -182,10 +182,10 @@ Built at **order-item level** and includes:
 
 ### Key Numbers
 
-- **High Value Customers:** 185
-- **At Risk Customers:** 5,435 (**54.4% of customer base** ⚠️)
-- **Total CLTV:** ₹14.98M
-- **Avg CLTV:** ₹1.50K
+- **High Value Customers** 
+- **At Risk Customers** 
+- **Total CLTV** ₹
+- **Avg CLTV** 
 
 ### Visuals
 
@@ -201,10 +201,10 @@ Built at **order-item level** and includes:
 
 ### Key Numbers
 
-- **Total Product Sales:** ₹11.92M
-- **Profit:** ₹3.58M
-- **Avg Rating:** 3.55 / 5
-- **Total Reviews:** 15K
+- **Total Product Sales**
+- **Profit**
+- **Avg Rating**
+- **Total Reviews**
 
 ### Visuals
 
@@ -216,8 +216,8 @@ Built at **order-item level** and includes:
 
 ### Highlights
 
-- **Top Category:** Electronics (₹4.96M)
-- **Top Brand:** Willow (₹400K profit)
+- **Top Category** 
+- **Top Brand** 
 
 ---
 
@@ -225,9 +225,9 @@ Built at **order-item level** and includes:
 
 ### Key Numbers
 
-- **Best Cohort Retention:** 14.80%
-- **Month 2 Retention:** 8.4%
-- **Month 3 Retention:** 8.2%
+- **Best Cohort Retention**
+- **Month 2 Retentio:** 
+- **Month 3 Retention** 
 
 ### Visuals
 
@@ -245,11 +245,11 @@ Built at **order-item level** and includes:
 
 ### Key Numbers
 
-- **View → Purchase Conversion:** 32.94%
-- **Delivered On Time:** 18K
-- **Delayed:** 2K
-- **Avg Delivery Time:** 4 days
-- **Delayed %:** 20%
+- **View → Purchase Conversion**
+- **Delivered On Time** 
+- **Delayed**
+- **Avg Delivery Time** 
+- **Delayed %** 
 
 ### Visuals
 
