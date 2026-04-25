@@ -162,7 +162,7 @@ Built at **order-item level** and includes:
 ### Key Numbers
 
 - **Revenue**
-- **Profit** ₹
+- **Profit** 
 - **Total Orders** 
 - **Total Customers** 
 - **Profit Margin** 
@@ -184,7 +184,7 @@ Built at **order-item level** and includes:
 
 - **High Value Customers** 
 - **At Risk Customers** 
-- **Total CLTV** ₹
+- **Total CLTV** 
 - **Avg CLTV** 
 
 ### Visuals
